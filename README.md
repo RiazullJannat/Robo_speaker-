@@ -1,2 +1,2 @@
-# Robo_speaker-
-This is the first project of 30 day basic challenge. 
+# Robo_speaker-, weather app,
+This is the projects of 30 day basic challenge. 
